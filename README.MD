@@ -11,13 +11,13 @@
 
 - **Passos:**
     * Copie a URL do repositório (você pode escolher entre HTTPS ou SSH).  
-      Exemplo de URL: `https://github.com/usuario/projeto-champions-league.git`
+      Exemplo de URL: `https://github.com/pablomattos/champions-league-api.git`
     * Abra o Terminal ou Git Bash no seu computador.
     * Altere o diretório de trabalho atual para o local onde deseja ter o diretório clonado.
     * Digite o comando `git clone` seguido da URL que você copiou.  
       Exemplo:  
       ```bash
-      git clone https://github.com/usuario/projeto-champions-league.git
+      git clone https://github.com/pablomattos/champions-league-api.git
       ```
 
 - **Na IDE:**
